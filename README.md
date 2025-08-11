@@ -10,7 +10,7 @@ This project analyzes and predicts stroke risk using the Stroke Prediction Datas
 - `healthcare-dataset-stroke-data.csv` — Main dataset for analysis and modeling.
 - `xg-boost.ipynb` — Jupyter notebook containing all code for data exploration, preprocessing, modeling, and evaluation.
 - `requirements.txt` — List of Python dependencies.
-- `rds_res.csv` — Results or processed data (output from the notebook).
+- `rds-res.csv` — Results or processed data (output from the notebook).
 - `rds-report.pdf` — Project report.
 - `rds-slides.pdf` — Presentation slides.
 
